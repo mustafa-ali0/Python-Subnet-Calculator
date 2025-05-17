@@ -42,11 +42,6 @@ python main.py
 cd (the path of the Python file of Python-Subnet-Calculator.py)
 python C:\Download\Python-Subnet-Calculator\main.py
 ```
-### 2. Run the App
-
-```bash
-
-```
 
 Make sure you’re using **Python 3.6+**.
 
