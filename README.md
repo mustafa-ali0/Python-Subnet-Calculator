@@ -42,6 +42,8 @@ python main.py
 cd (the path of the Python file of Python-Subnet-Calculator.py)
 python C:\Download\Python-Subnet-Calculator\main.py
 ```
+### 2. Click on the main.exe 
+* If you want to run the program directly without any commands 
 
 Make sure you’re using **Python 3.6+**.
 
