@@ -33,8 +33,8 @@ Designed for network technicians, students, and IT professionals to quickly calc
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/subnet-calculator-gui.git
-cd subnet-calculator-gui
+git clone https://github.com/mustafa-ali0/-Python-Subnet-Calculator.git
+cd Python-Subnet-Calculator.py
 ```
 
 ### 2. Run the App
@@ -51,9 +51,6 @@ Make sure you’re using **Python 3.6+**.
 
 * Python (3.6 or higher)
 * No external libraries needed (Tkinter is built-in)
----
-```
-```
 ---
 
 ## 📤 Export
