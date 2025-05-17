@@ -23,7 +23,9 @@ A simple and interactive **Subnet Calculator** built with Python and Tkinter. De
 ---
 
 ## 📸 Screenshots
-![Subnet Calculator GUI](https://github.com/mustafa-ali0/-Python-Subnet-Calculator/blob/main/Screenshot%202025-05-17%20225048.png?raw=true)
+![Main Window](https://github.com/mustafa-ali0/-Python-Subnet-Calculator/blob/main/Screenshot%202025-05-17%20225048.png?raw=true)
+![Example Output]()
+
 
 ---
 
