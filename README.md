@@ -27,21 +27,21 @@ Designed for network technicians, students, and IT professionals to quickly calc
 
 
 ---
-````
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
 
-```bash
+bash
 git clone https://github.com/yourusername/subnet-calculator-gui.git
 cd subnet-calculator-gui
-````
+
 
 ### 2. Run the App
 
-```bash
+bash
 python subnet_calculator.py
-```
+
 
 Make sure you’re using **Python 3.6+**.
 
