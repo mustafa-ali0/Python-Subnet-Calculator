@@ -1,8 +1,7 @@
 
 ## 🧮 Python Subnet Calculator
 
-A simple and interactive **Subnet Calculator** built with Python and Tkinter.  
-Designed for network technicians, students, and IT professionals to quickly calculate subnetting based on host requirements and IP address.
+A simple and interactive **Subnet Calculator** built with Python and Tkinter. Designed for network technicians, students, and IT professionals to quickly calculate subnetting based on host requirements and IP address.
 
 ---
 
