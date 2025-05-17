@@ -1,11 +1,3 @@
-# -Python-Subnet-Calculator
-
-Absolutely! Here's a professional and clear `README.md` file for your **Python Subnet Calculator with GUI**, ready for GitHub.
-
----
-
-### ✅ `README.md` for Python Subnet Calculator GUI
-
 ````
 # 🧮 Python Subnet Calculator (Tkinter GUI)
 
