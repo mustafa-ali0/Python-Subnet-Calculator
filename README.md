@@ -35,17 +35,18 @@ A simple and interactive **Subnet Calculator** built with Python and Tkinter. De
 
 ```bash
 git clone https://github.com/mustafa-ali0/-Python-Subnet-Calculator.git
-cd Python-Subnet-Calculator.py
+cd Python-Subnet-Calculator
+python main.py
 ```
 ```cmd
 cd (the path of the Python file of Python-Subnet-Calculator.py)
-python C:\Download\Python-Subnet-Calculator.py
+python C:\Download\Python-Subnet-Calculator\main.py
 ```
 ### 2. Run the App
 
-bash
-python subnet_calculator.py
+```bash
 
+```
 
 Make sure you’re using **Python 3.6+**.
 
