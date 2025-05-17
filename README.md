@@ -35,7 +35,7 @@ Designed for network technicians, students, and IT professionals to quickly calc
 ```bash
 git clone https://github.com/yourusername/subnet-calculator-gui.git
 cd subnet-calculator-gui
-
+```
 
 ### 2. Run the App
 
