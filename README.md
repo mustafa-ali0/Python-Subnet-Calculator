@@ -23,7 +23,7 @@ A simple and interactive **Subnet Calculator** built with Python and Tkinter. De
 ---
 
 ## 📸 Screenshots
-
+![Subnet Calculator GUI](Screenshot 2025-05-17 225048.png)
 
 ---
 
