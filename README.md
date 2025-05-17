@@ -32,7 +32,7 @@ Designed for network technicians, students, and IT professionals to quickly calc
 
 ### 1. Clone the Repository
 
-bash
+```bash
 git clone https://github.com/yourusername/subnet-calculator-gui.git
 cd subnet-calculator-gui
 
